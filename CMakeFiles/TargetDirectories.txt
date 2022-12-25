@@ -1,0 +1,3 @@
+/home/lenyas/parralel3/CMakeFiles/edit_cache.dir
+/home/lenyas/parralel3/CMakeFiles/rebuild_cache.dir
+/home/lenyas/parralel3/CMakeFiles/laba3_parallel.dir
